@@ -8,6 +8,11 @@
 # IP-ASN: 1
 # IP-CIDR: 2
 # TOTAL: 27
+DOMAIN,tcr9i.chat.openai.com
+DOMAIN,chat.openai.com
+DOMAIN,ab.chatgpt.com
+DOMAIN,chatgpt-async-webps-prod-southcentralus-3.chatgpt.com
+DOMAIN,chatgpt-async-webps-prod-eastus-3.chatgpt.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
